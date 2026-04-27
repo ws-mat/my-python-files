@@ -17,3 +17,5 @@ textoinvertido=''
 for i in texto:
     textoinvertido=i+textoinvertido
 print(textoinvertido)
+
+#texto muito maneiro e legal
