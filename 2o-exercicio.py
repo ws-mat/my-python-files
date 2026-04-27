@@ -19,3 +19,9 @@ for i in texto:
 print(textoinvertido)
 
 #texto muito maneiro e legal
+
+texto='abacate'
+textoinv=''
+for i in texto:
+    textoinv=i+textoinv
+print(textoinv)
