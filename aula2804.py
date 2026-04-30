@@ -112,13 +112,13 @@ print(f'Total de votos POR CANDIDATO =\nCandidato 1 = {cand1}\nCandidato 2 = {ca
 
 listanome=[]
 #atividade 3:
-while True:
-    op=input('\nDigite a operação desejada:\n\nCadastro - 1\nConsulta - 2\nExclusão - 3\nSair - 0\n')
+# while True:
+#     op=input('\nDigite a operação desejada:\n\nCadastro - 1\nConsulta - 2\nExclusão - 3\nSair - 0\n')
 
-    if op=='1':
-        addnm=input('\nCadastro selecionado. Digite o nome que deseja inserir: ')#
-        listanome.insert(0,addnm)
+#     if op=='1':
+#         addnm=input('\nCadastro selecionado. Digite o nome que deseja inserir: ')#
+#         listanome.insert(0,addnm)
         
-    elif op=='2':
-        print(f'\nConsulta selecionado.\n')
-    elif op=='3':
+#     elif op=='2':
+#         print(f'\nConsulta selecionado.\n')
+#     elif op=='3':
